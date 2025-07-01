@@ -36,7 +36,7 @@ Currently, I’m building:
 
 ### 📦 Projects
 
-🚧 **[Image Classification using AWS SageMaker]([https://github.com/consigliereai](https://github.com/aaabhijith13/ImageClassification))**  
+🚧 **[Image Classification using AWS SageMaker](https://github.com/aaabhijith13/ImageClassification)**  
 Use AWS Sagemaker to train a pretrained model that can perform image classification by using the Sagemaker profiling, debugger, hyperparameter tuning and other good ML engineering practices. 
 → AWS + Sagemaker + Computer Vision + OpenCV + Pretrained models + Hyperparameter tuning 
 
@@ -44,7 +44,7 @@ Use AWS Sagemaker to train a pretrained model that can perform image classificat
 RAG-powered job application assistant that generates resumes, cover letters, and emails  
 → FAISS + Neo4j KG + LangChain Memory + React UI + FastAPI backend
 
-⚙️ **[Stock Prediction Model]((https://github.com/aaabhijith13/capstone))**  
+⚙️ **[Stock Prediction Model](https://github.com/aaabhijith13/capstone)**  
 This project aims to leverage historical stock data from companies like Google, Amazon, Microsoft and Apple alongside financial indicators, to forecast future stock prices.
 → Unit tests | PySpark | Redshift | Monitoring with CloudWatch | Streamlit
 
@@ -53,7 +53,7 @@ This project aims to leverage historical stock data from companies like Google, 
 ### 📈 GitHub Stats
 
 ![Abhijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaabhijith13&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaabhijith13&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+![[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaabhijith13&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
