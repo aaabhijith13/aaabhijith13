@@ -12,8 +12,12 @@
 I'm an applied machine learning engineer with a passion for deploying scalable AI systems and building end-to-end ML pipelines. My work spans across generative AI assistants, multi-modal LLMs, time-series forecasting, and real-time meeting intelligence using tools like **AWS SageMaker**, **Jenkins**, **Docker**, and **Recall.ai**.
 
 Currently, I’m building:
-- 🗣️ **Consigliere AI** – an AI assistant for meetings that processes live transcripts, researches unknowns, and summarizes in real-time
-- ✍️ **AutoCover** – a resume & cover letter generator powered by open-source LLMs, RAG pipelines (FAISS + Neo4j), and React/FastAPI
+- 🗣️ An AI assistant for meetings that processes live transcripts, researches unknowns, and summarizes in real-time.
+- ✍️ **AutoCover** – A resume & cover letter generator powered by open-source LLMs, RAG pipelines (FAISS + Neo4j), and React/FastAPI
+- **Image Classification using AWS SageMaker** - Use AWS Sagemaker to train a pretrained model that can perform image classification by using the Sagemaker profiling, debugger, hyperparameter tuning and other good ML engineering practices. This can be done on either the provided dog breed classication data set or one of your choice.
+- **Stock Market Analysis and Prediction** - This project aims to leverage historical stock data from companies like Google, Amazon, Microsoft and Apple alongside financial indicators, to forecast future stock prices.
+- **Data Science Projects** - A list of various data science and data engineering projects in AWS and private enviornments, showcasing different skills like ETL, feature engineering, model tuning etc.
+  
 
 ---
 
@@ -32,17 +36,17 @@ Currently, I’m building:
 
 ### 📦 Projects
 
-🚧 **[Consigliere AI](https://github.com/consigliereai)**  
-AI assistant for real-time meetings: WebSocket + Recall.ai + AI Workers + LLM agents  
-→ MLOps + Researcher Orchestration + Agent Memory + Summary/Research Pipelines  
+🚧 **[Image Classification using AWS SageMaker]([https://github.com/consigliereai](https://github.com/aaabhijith13/ImageClassification))**  
+Use AWS Sagemaker to train a pretrained model that can perform image classification by using the Sagemaker profiling, debugger, hyperparameter tuning and other good ML engineering practices. 
+→ AWS + Sagemaker + Computer Vision + OpenCV + Pretrained models + Hyperparameter tuning 
 
 📄 **[AutoCover](https://github.com/aaabhijith13/autocover)**  
 RAG-powered job application assistant that generates resumes, cover letters, and emails  
 → FAISS + Neo4j KG + LangChain Memory + React UI + FastAPI backend
 
-⚙️ **[SageMaker Jenkins CI/CD Pipelines](https://github.com/aaabhijith13)**  
-Fully-automated ML pipeline with Jenkins integration, SageMaker training, and approval-based EventBridge triggers  
-→ Unit tests | PySpark | Redshift | Monitoring with CloudWatch
+⚙️ **[Stock Prediction Model]((https://github.com/aaabhijith13/capstone))**  
+This project aims to leverage historical stock data from companies like Google, Amazon, Microsoft and Apple alongside financial indicators, to forecast future stock prices.
+→ Unit tests | PySpark | Redshift | Monitoring with CloudWatch | Streamlit
 
 ---
 
@@ -56,8 +60,6 @@ Fully-automated ML pipeline with Jenkins integration, SageMaker training, and ap
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijithvamadev-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abhijithvamadev)
-[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=flat&logo=medium)](https://medium.com/@abhijith.anilvamadev)
-[![Website](https://img.shields.io/badge/Portfolio-In_Progress-0d1117?style=flat&logo=githubpages)](#)
 
 ---
 
