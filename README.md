@@ -28,13 +28,6 @@ Currently, I’m building:
 - **Image Classification using AWS SageMaker** - Use AWS Sagemaker to train a pretrained model that can perform image classification by using the Sagemaker profiling, debugger, hyperparameter tuning and other good ML engineering practices. This can be done on either the provided dog breed classication data set or one of your choice.
 - **Stock Market Analysis and Prediction** - This project aims to leverage historical stock data from companies like Google, Amazon, Microsoft and Apple alongside financial indicators, to forecast future stock prices.
 - **Data Science Projects** - A list of various data science and data engineering projects in AWS and private enviornments, showcasing different skills like ETL, feature engineering, model tuning etc.
-  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
@@ -80,10 +73,9 @@ This project aims to leverage historical stock data from companies like Google, 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-
 ### 📈 GitHub Stats
 
-![Abhijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaabhijith13&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=aaabhijith13&theme=tokyonight&hide_border=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaabhijith13&theme=tokyonight&hide_border=false)
 ![Streak](https://git.io/streak-stats.herokuapp.com?user=aaabhijith13&theme=tokyonight&hide_border=false)
 
