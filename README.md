@@ -6,7 +6,7 @@
   Let's Connect and have a Chat!💬
 </h1>
 <p align="center">
-# 👋 Hi, I'm Abhijith Anil Vamadev
+👋 Hi, I'm Abhijith Anil Vamadev
 
 🚀 AI/ML Engineer | 🧠 Generative AI & RAG Systems | 🧰 MLOps & Cloud Infrastructure | 🧪 Researcher & Builder
 </p>
@@ -15,10 +15,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-
+<h3 align ="center">
 ### 💼 Who Am I?
-
-I'm an applied machine learning engineer with a passion for deploying scalable AI systems and building end-to-end ML pipelines. My work spans across generative AI assistants, multi-modal LLMs, time-series forecasting, and real-time meeting intelligence using tools like **AWS SageMaker**, **Jenkins**, **Docker**, and **Recall.ai**.
+</h3>
+<p align="center">
+  I'm an applied machine learning engineer with a passion for deploying scalable AI systems and building end-to-end ML pipelines. My work spans across generative AI assistants, multi-modal LLMs, time-series forecasting, and real-time meeting intelligence using tools like **AWS SageMaker**, **Jenkins**, **Docker**, and **Recall.ai**.
+</p>
 
 Currently, I’m building:
 - 🗣️ An AI assistant for meetings that processes live transcripts, researches unknowns, and summarizes in real-time.
