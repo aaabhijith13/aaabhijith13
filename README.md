@@ -53,7 +53,7 @@ This project aims to leverage historical stock data from companies like Google, 
 ### 📈 GitHub Stats
 
 ![Abhijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaabhijith13&show_icons=true&theme=tokyonight)
-![[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaabhijith13&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaabhijith13&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
