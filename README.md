@@ -1,11 +1,20 @@
-## Hi👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
 # 👋 Hi, I'm Abhijith Anil Vamadev
 
 🚀 AI/ML Engineer | 🧠 Generative AI & RAG Systems | 🧰 MLOps & Cloud Infrastructure | 🧪 Researcher & Builder
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 ### 💼 Who Am I?
 
@@ -18,8 +27,17 @@ Currently, I’m building:
 - **Stock Market Analysis and Prediction** - This project aims to leverage historical stock data from companies like Google, Amazon, Microsoft and Apple alongside financial indicators, to forecast future stock prices.
 - **Data Science Projects** - A list of various data science and data engineering projects in AWS and private enviornments, showcasing different skills like ETL, feature engineering, model tuning etc.
   
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 ### ⚒️ Tech Stack
 
@@ -33,6 +51,11 @@ Currently, I’m building:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 ### 📦 Projects
 
@@ -49,6 +72,12 @@ This project aims to leverage historical stock data from companies like Google, 
 → Unit tests | PySpark | Redshift | Monitoring with CloudWatch | Streamlit
 
 ---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 ### 📈 GitHub Stats
 
