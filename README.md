@@ -5,11 +5,11 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-
+<p align="center">
 # 👋 Hi, I'm Abhijith Anil Vamadev
 
 🚀 AI/ML Engineer | 🧠 Generative AI & RAG Systems | 🧰 MLOps & Cloud Infrastructure | 🧪 Researcher & Builder
-
+</p>
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
