@@ -76,8 +76,6 @@ This project aims to leverage historical stock data from companies like Google, 
 ### 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?user=aaabhijith13&theme=tokyonight&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aaabhijith13&theme=tokyonight&hide_border=false)
-![Streak](https://git.io/streak-stats.herokuapp.com?user=aaabhijith13&theme=tokyonight&hide_border=false)
 
 ---
 
