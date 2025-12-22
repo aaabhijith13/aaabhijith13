@@ -16,10 +16,10 @@
 </p>
 
 <h3 align ="center">
-### 💼 Who Am I?
+💼 Who Am I?
 </h3>
 <p align="center">
-  I'm an Product engineer with a passion for building products that leverage cloud infrastructure, machine learning & AI end to end Data pipelines. My work spans across technical and non-technical steakholders generative AI assistants, multi-modal LLMs, time-series forecasting, and real-time meeting intelligence using tools like **AWS SageMaker**, **Jenkins**, **Docker**, and **Recall.ai**.
+  I'm Full stack AI/ML engineer (Product Engineer) with a passion for building products that leverage cloud infrastructure, machine learning & AI end to end Data pipelines. My work spans across technical and non-technical steakholders generative AI assistants, multi-modal LLMs, time-series forecasting, and real-time meeting intelligence using tools like **AWS SageMaker**, **Jenkins**, **Docker**, and **Recall.ai**.
 </p>
 
 Currently, I’m building:
