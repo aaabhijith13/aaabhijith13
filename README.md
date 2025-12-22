@@ -10,7 +10,6 @@
 
 🚀 AI/ML Engineer | 🧠 Generative AI & RAG Systems | 🧰 MLOps & Cloud Infrastructure | 🧪 Product Builder
 </p>
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
