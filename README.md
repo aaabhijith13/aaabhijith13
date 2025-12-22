@@ -25,6 +25,8 @@
 Currently, I’m building:
 - 🗣️ An AI assistant for meetings that processes live transcripts, researches unknowns, and summarizes in real-time.
 - ✍️ **AutoCover** – A resume & cover letter generator powered by open-source LLMs, RAG pipelines (FAISS + Neo4j), and React/FastAPI
+
+Previous Projects: 
 - **Image Classification using AWS SageMaker** - Use AWS Sagemaker to train a pretrained model that can perform image classification by using the Sagemaker profiling, debugger, hyperparameter tuning and other good ML engineering practices. This can be done on either the provided dog breed classication data set or one of your choice.
 - **Stock Market Analysis and Prediction** - This project aims to leverage historical stock data from companies like Google, Amazon, Microsoft and Apple alongside financial indicators, to forecast future stock prices.
 - **Data Science Projects** - A list of various data science and data engineering projects in AWS and private enviornments, showcasing different skills like ETL, feature engineering, model tuning etc.
