@@ -31,10 +31,6 @@ Previous Projects:
 - **Stock Market Analysis and Prediction** - This project aims to leverage historical stock data from companies like Google, Amazon, Microsoft and Apple alongside financial indicators, to forecast future stock prices.
 - **Data Science Projects** - A list of various data science and data engineering projects in AWS and private enviornments, showcasing different skills like ETL, feature engineering, model tuning etc.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 <h3 align="center">⚒️ Tech Stack</h3>
 
 <p align="center">
@@ -60,10 +56,6 @@ Previous Projects:
 Use AWS Sagemaker to train a pretrained model that can perform image classification by using the Sagemaker profiling, debugger, hyperparameter tuning and other good ML engineering practices. 
 → AWS + Sagemaker + Computer Vision + OpenCV + Pretrained models + Hyperparameter tuning 
 
-📄 **[AutoCover](https://github.com/aaabhijith13/autocover)**  
-RAG-powered job application assistant that generates resumes, cover letters, and emails  
-→ FAISS + Neo4j KG + LangChain Memory + React UI + FastAPI backend
-
 ⚙️ **[Stock Prediction Model](https://github.com/aaabhijith13/capstone)**  
 This project aims to leverage historical stock data from companies like Google, Amazon, Microsoft and Apple alongside financial indicators, to forecast future stock prices.
 → Unit tests | PySpark | Redshift | Monitoring with CloudWatch | Streamlit
@@ -75,9 +67,7 @@ This project aims to leverage historical stock data from companies like Google, 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?user=aaabhijith13&theme=tokyonight&hide_border=false)
 
 ---
 
