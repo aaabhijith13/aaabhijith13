@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's Connect and have a Chat!
 </h1>
 <p align="center">
-👋 Hi, I'm Abhijith Anil Vamadev
+👋 Hi, I'm Abhijith
 
-🚀 AI/ML Engineer | 🧠 Generative AI & RAG Systems | 🧰 MLOps & Cloud Infrastructure | 🧪 Researcher & Builder
+🚀 AI/ML Engineer | 🧠 Generative AI & RAG Systems | 🧰 MLOps & Cloud Infrastructure | 🧪 Product Builder
 </p>
 ---
 <p align="center">
@@ -19,11 +19,11 @@
 ### 💼 Who Am I?
 </h3>
 <p align="center">
-  I'm an applied machine learning engineer with a passion for deploying scalable AI systems and building end-to-end ML pipelines. My work spans across generative AI assistants, multi-modal LLMs, time-series forecasting, and real-time meeting intelligence using tools like **AWS SageMaker**, **Jenkins**, **Docker**, and **Recall.ai**.
+  I'm an Product engineer with a passion for building products that leverage cloud infrastructure, machine learning & AI end to end Data pipelines. My work spans across technical and non-technical steakholders generative AI assistants, multi-modal LLMs, time-series forecasting, and real-time meeting intelligence using tools like **AWS SageMaker**, **Jenkins**, **Docker**, and **Recall.ai**.
 </p>
 
 Currently, I’m building:
-- 🗣️ An AI assistant for meetings that processes live transcripts, researches unknowns, and summarizes in real-time.
+- 🗣️ An AI assistant for meetings that processes live transcripts, researches facts vs current transcripts, and summarizes in real-time.
 - ✍️ **AutoCover** – A resume & cover letter generator powered by open-source LLMs, RAG pipelines (FAISS + Neo4j), and React/FastAPI
 
 Previous Projects: 
