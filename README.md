@@ -51,9 +51,14 @@ Previous Projects:
 
 ### 📦 Projects
 
-🚧 **[Image Classification using AWS SageMaker](https://github.com/aaabhijith13/ImageClassification)**  
+⚙️ **[Image Classification using AWS SageMaker](https://github.com/aaabhijith13/ImageClassification)**  
 Use AWS Sagemaker to train a pretrained model that can perform image classification by using the Sagemaker profiling, debugger, hyperparameter tuning and other good ML engineering practices. 
 → AWS + Sagemaker + Computer Vision + OpenCV + Pretrained models + Hyperparameter tuning 
+
+🚧 **[MCP Server for Swing Trading Data Retrieval](https://github.com/aaabhijith13/MCPServer)**
+Build an MCP server that standardizes access to real-time and historical stock data for swing trading, enabling agents to query market data, technical indicators, volume trends, and intraday price ranges through a unified tool interface while following reliable data engineering practices.
+→ MCP + Market Data APIs + Time-Series Processing + Technical Indicators + Caching + Observability
+
 
 ⚙️ **[Stock Prediction Model](https://github.com/aaabhijith13/capstone)**  
 This project aims to leverage historical stock data from companies like Google, Amazon, Microsoft and Apple alongside financial indicators, to forecast future stock prices.
