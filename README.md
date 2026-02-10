@@ -24,13 +24,13 @@
 Currently, I’m building:
 - 🗣️ An AI assistant for meetings that processes live transcripts, researches facts vs current transcripts, and summarizes in real-time.
 - ✍️ **AutoCover** – A resume & cover letter generator powered by open-source LLMs, RAG pipelines (FAISS + Neo4j), and React/FastAPI
-- **[Buidling an MCP for stock technical insights and news]**(https://github.com/aaabhijith13/linkedIN_posts) - Creating MCP server for personal usage to get stock technical insights + news.
-- **[Sample RAG implementation]**(https://github.com/aaabhijith13/PineconeRag) - Sample implementation of RAG pipeline utilizing OpenAI embeddings + LLM Calls + Prompt Engineering + Pinecone vector database. 
+- **[Buidling an MCP for stock technical insights and news](https://github.com/aaabhijith13/linkedIN_posts)** - Creating MCP server for personal usage to get stock technical insights + news.
+- **[Sample RAG implementation](https://github.com/aaabhijith13/PineconeRag)** - Sample implementation of RAG pipeline utilizing OpenAI embeddings + LLM Calls + Prompt Engineering + Pinecone vector database. 
 
   
 Previous Projects: 
-- **[Big Data Series on LinkedIn]**(https://github.com/aaabhijith13/linkedIN_posts) - Did a Spark/Streaming big data series, showing spark fundamentals and streaming fundamentals. For fun!!
-- - **End to end MLOps Pipeline** - Utilized Jenkins and several AWS services to build end to end MLOps pipeline serving, over 20+ models run through Sagemaker pipelines, each model output stored in AWS S3, Model registry to track models and utilized canary deployment for models utilzing AWS endpoints and ensuring it is scaled accounting for varying traffic. Terraform was utilized to deploy IaC. Finally, the end to end system is monitored using AWS CloudWatch + Prometheus + Graphana - Connected with SNS, so the developers are notified if systems were ever to go down. 
+- **[Big Data Series on LinkedIn](https://github.com/aaabhijith13/linkedIN_posts)** - Did a Spark/Streaming big data series, showing spark fundamentals and streaming fundamentals. For fun!!
+- **End to end MLOps Pipeline** - Utilized Jenkins and several AWS services to build end to end MLOps pipeline serving, over 20+ models run through Sagemaker pipelines, each model output stored in AWS S3, Model registry to track models and utilized canary deployment for models utilzing AWS endpoints and ensuring it is scaled accounting for varying traffic. Terraform was utilized to deploy IaC. Finally, the end to end system is monitored using AWS CloudWatch + Prometheus + Graphana - Connected with SNS, so the developers are notified if systems were ever to go down. 
 - **Image Classification using AWS SageMaker** - Use AWS Sagemaker to train a pretrained model that can perform image classification by using the Sagemaker profiling, debugger, hyperparameter tuning and other good ML engineering practices. This can be done on either the provided dog breed classication data set or one of your choice.
 - **Stock Market Analysis and Prediction** - This project aims to leverage historical stock data from companies like Google, Amazon, Microsoft and Apple alongside financial indicators, to forecast future stock prices.
 - **Data Science Projects** - A list of various data science and data engineering projects in AWS and private enviornments, showcasing different skills like ETL, feature engineering, model tuning etc.
